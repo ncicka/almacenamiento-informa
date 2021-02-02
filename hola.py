@@ -1,4 +1,7 @@
 # Ejemplo repositorio
+#modificando (mqagui en hithub)
+
+print("MAGUICITA")
 
 print("Hola Mundo")
 
